@@ -40,30 +40,30 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `3`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of my survey is to understan how age affects the musing taste and correlation of the age with tendency to like a specific type of music and perceptions of popular music
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
-```
+Target population: people from 15 to 100 years old.
+Sampling frame: public libraries, universities, collegies, social media, comunity organizations (like YMCA, etc.).
+Sampling units: individuals from across mentioned places who were selected for the survey.
+Samling strategy: The population will be devided into stratas of similar age (15 - 20, 21 - 25, 26 - 30, 31 - 40, 41 - 50, 51 - 60, 61 - 70, 71 - 80, 81 - 90, 91 - 100) and analyzed by these stratas with randomly selected individuals within each strata.
+``` 
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. How old are you?
+2. What genre of music you are into right now?
+3. Why do you like it?
+4. How do you feel about pop-music these days?
+5. Do you think your music taste changed over years?
+6. If the answer to the question 5 was yes, please tell us what type of music you liked 5, 10, 20 years ago?
+7. What artist or genre of music remains your favourite one over years?
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,7 +71,24 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+1. Sample type: two-stage sampling design: first, stratification method for creating stratas based on the areas, then the information is collected from one randomly selected household member aged 15 or older, and proxy responses are not permitted
+2. Sample size: approximatively 50,000 units
+3. Target population: people aged 15 years and over living in private households in Canada, excluding residents of the Yukon, Northwest Territories and Nunavut and full time residents of institutions. 
+4. Sampling frame: the survey uses a frame that combines landline and cellular telephone numbers from the Census and various administrative sources with Statistics Canada's dwelling frame. Records on the frame are groups of one or several telephone numbers associated with the same address.
+5. Survey mode(s): telephone interview and electronic questionnaire.
+6. Timeline: the data was processed from 2018-09-04 to 2018-12-28 and published in January 2021.
+7. Response rate: 41.9%
+8. Weights: weights were used to 1)adjust for the 'rejecting' of a proportion of respondents that are not volunteers; 2)adjustment of weighted income distribution of GVP matched the 2017 CIS distribution by province; 3)bootstrap weights have been created for the purpose of design-based variance estimation; 4)estimates based on the survey data are also adjusted (by weighting) so that they are representative of the target population with regard to certain characteristics (each month we have independent estimates for various age-sex groups by province); 5)survey estimates were adjusted to account for non-response cases; 6)survey estimates were adjusted to represent all persons in the target population, including those not covered by the survey frame.
+9. Data processing: Data was collected directly from survey respondents either through an electronic questionnaire or through CATI (computer assisted telephone interviewing). Then it was transformed into public use microdata file (PUMF) to help users access and manipulate the the data for the further processing and analysis.
+10. Cleaning, imputation, etc: 1)Except in a few cases, all imputations were made using donor records selected through a score function. 2)Where donor imputation could not be used, mean imputation among a pool of donors was used. 3)Income imputation: income was linked to the tax documentation according to the respondents agreement to link it.
+11. Sources of error: sampling error, imperfect coverage and non-response errors, processing error.
+12. Limitations, known biases, etc: non-response bias - households without telephones were excluded, undercoverage - only ten provinces were included into target population.
+13. Link to documentation and any additional sources used:
+https://www150.statcan.gc.ca/n1/en/catalogue/45250011 
+https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=796234 
+https://www150.statcan.gc.ca/n1/pub/75-006-x/2021001/article/00002-eng.htm
+https://www150.statcan.gc.ca/n1/daily-quotidien/210126/dq210126h-eng.htm
+
 ```
 
 ## Rubric
